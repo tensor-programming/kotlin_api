@@ -1,6 +1,6 @@
 # Kotlin_Api
 
-# In this tutorial, we build out a simple API using Ktor and Kotlin.
+## In this tutorial, we build out a simple API using Ktor and Kotlin.
 
 ### Check out the Youtube Tutorial for this [Kotlin Tutorial](https://youtu.be/5sYhSrDTCls).  Here is our [Youtube Channel](https://www.youtube.com/channel/UCYqCZOwHbnPwyjawKfE21wg) Subscribe for more content.
 
